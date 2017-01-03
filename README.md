@@ -1,4 +1,4 @@
 # avr-timer
 AVR software for a led-based countdown timer
 
-See haokof.blogspot.com for more information.
+See http://haokof.blogspot.nl/2017/01/children-countdown-timer.html for more information.
